@@ -1,5 +1,5 @@
 /* eslint-disable @next/next/no-img-element */
-import { Icons } from "@/components/icons";
+import { Icons } from "@/components/Icons";
 import MaxWidthWrapper from "@/components/MaxWidthWrapper";
 import Phone from "@/components/Phone";
 import { Check, Star } from "lucide-react";
